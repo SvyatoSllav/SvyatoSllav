@@ -2,7 +2,9 @@
 
 ### Yandex.Practicum graduate
 
-### Languages and Tools: Python 3.7+ / Django / Django RESTFramework / PostgreSQL / Docker / Yandex.Cloud / HTML5 / CSS / Linux / Nginx / Unittest
+### Languages and Tools: Python 3 / Django / Django RESTFramework / FastAPI / aiohttp / aiogram / SQLAlchemy / Alembic / PostgreSQL / dependency injector / Docker / Nginx / Poetry / Unittest / Linux (Ubuntu based)
+
+#### And other: loguru, httpx, bit, blockcypher, environs, flake8, isort, PEP8 HTML5, CSS, ngrok,
 
 ### Contact me:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/Slava_tar)
