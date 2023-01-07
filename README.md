@@ -2,7 +2,7 @@
 
 ### Right now i'm working in <a href="https://bottec.ru/">BOTTEC</a> and <a href="https://github.com/EasyDevCompany">EasyDev</a> as Backend Developer
 
-#### I develop telegram bots and WebApps for them, parsing scripts, websites on FastAPI + React.js, also i am engaged in the deployment of projects on the server their support.
+#### I develop telegram bots and WebApps for them, parsing scripts, websites on FastAPI + React.js, also i am engaged in the deployment of the projects on the servers and their support.
 
 ### <a href="https://practicum.yandex.ru/backend-developer/">Yandex.Practicum</a> graduate
 
