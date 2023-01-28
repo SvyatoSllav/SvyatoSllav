@@ -6,7 +6,7 @@
 
 ### <a href="https://practicum.yandex.ru/backend-developer/">Yandex.Practicum</a> graduate
 
-### Languages and Tools: Python 3 / FastAPI/ SQLAlchemy / aiogram / Django / Django RESTFramework / Beatiful Soup 4 / aiohttp / Alembic / PostgreSQL / Docker / Nginx / Unittest / Linux (Ubuntu based)
+### Languages and Tools: Python 3 / FastAPI/ SQLAlchemy / aiogram / Django / Django RESTFramework / Selenium / Beatiful Soup 4 / aiohttp / Alembic / PostgreSQL / Docker / Nginx / Unittest / Linux (Ubuntu based)
 
 #### And other: dependency injection as architecture, loguru, httpx, bit, blockcypher, environs, flake8, isort, PEP8 HTML5, CSS, ngrok, poetry
 
