@@ -1,4 +1,4 @@
-# Hi! 👋 I'm Svyat. Python developer.
+# Hi! 👋 I'm Svyat. Fullstack(Python + Vue.js) developer.
 
 ### Right now i'm working in <a href="https://bottec.ru/">BOTTEC</a> and <a href="https://github.com/EasyDevCompany">EasyDev</a> as Backend Developer
 
