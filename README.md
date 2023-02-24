@@ -11,6 +11,11 @@
 #### And other: dependency injection as architecture, loguru, httpx, bit, blockcypher, environs, flake8, isort, PEP8 HTML5, CSS, ngrok, poetry
 
 ### Contact me:
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/Slava_tar)
+<a href="https://t.me/Slava_tar" target="_blank"><img height="32" width="32" src="https://user-images.githubusercontent.com/73361756/221234695-e2c3ab28-3ca9-431c-b482-e6b9c5b55035.svg"/></a>
+
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/Slava_tar)
 
 [![Svyat's GitHub stats](https://github-readme-stats.vercel.app/api?username=SvyatoSllav)](https://github.com/evencatt/github-readme-stats)
+<a style="max-width: 60px; max-height: 60px;">
+  ![download]()
+</a>
