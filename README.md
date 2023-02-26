@@ -1,6 +1,6 @@
 # Hi! 👋 I'm Svyat. Fullstack developer (Python + Vue.js).
 
-### Right now i'm working in <a href="https://bottec.ru/">BOTTEC</a> and <a href="https://github.com/EasyDevCompany">EasyDev</a> as Backend Developer
+### Right now i'm working in <a href="https://github.com/EasyDevCompany">EasyDev</a> as Backend Developer
 
 #### I'm working on Telegram bots and WebApps for them, parsing scripts, websites on FastAPI + Vue.js, also i am engaged in the deployment of the projects on the servers and their support.
 
