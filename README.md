@@ -1,6 +1,6 @@
 # Hi! 👋 I'm Svyat. Python Backend developer.
 
-### Right now i'm working in <a href="https://github.com/EasyDevCompany">EasyDev</a> as Backend Developer
+### Right now i'm working in <b>Agora</b> as Backend Developer
 
 #### I'm working on Telegram bots and WebApps for them, parsing scripts, websites on FastAPI/DRF also i am engaged in the deployment of the projects on the servers and their support.
 
